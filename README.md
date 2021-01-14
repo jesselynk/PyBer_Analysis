@@ -20,12 +20,12 @@ total_fare_citytype
 
 With the above information, as well as some additional key components, we were able to create a data frame that allows PyBer to better understand where their business is more prominent. 
 
-![](Pyber DataFrame.PNG)
+![](images/Pyber_DataFrame.png)
 
 ## Ride Sharing Results 
 Rather than showing each individual ride, we found it easier on the eyes to visualize results from January through April, and this is still a wide enough range to get a complete understanding of ride sharing needs. Below you will see the total rides by type.
 
-![](City Type.PNG)
+![](images/Fares_by_City_Type.png)
 
 ## Ride Sharing Summary 
 After reviewing this information, you can see that there is a higher demand for rides in the Urban areas. Since there are more people in urban areas, it leads to a higher demand for rides, which in turns leads to more drivers and a higher payout in ride fares. You can look at other companies such as Uber, Lyft and taxi companies to confirm this information. 
